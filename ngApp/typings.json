@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "cordova": "registry:dt/cordova#0.0.0+20160607055823",
+    "cordova-ionic": "registry:dt/cordova-ionic#0.0.0+20160316155526"
+  }
+}
