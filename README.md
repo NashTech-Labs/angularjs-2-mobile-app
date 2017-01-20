@@ -3,7 +3,7 @@
     src="https://cloud.githubusercontent.com/assets/10805658/22137054/bad69cfc-defe-11e6-8cce-5422364eee1c.png">
   <a href="https://github.com/webpack/webpack">
   </a>
-  <h1>Angularjs 2</h1>
+  <h1>Angularjs 2- Learning App</h1>
 </div>
 
 
