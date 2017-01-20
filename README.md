@@ -26,11 +26,12 @@ Many users mailed me and asked me to add other material for reading like:
 </ul>
 So you can contribute in these arias so we can add these sections in this app.
 
-<div align="center">
-<h5 style="text-style:italic">Keep sharing Keep learning ;)</h5>
-</div>
 
-#### Creator/Maintainer
- <img width="100" height="100"
+<h5 style="text-style:italic">Keep sharing Keep learning ;)</h5>
+
+
+
+####Creator/Maintainer
+ <img width="80" height="80"
     src="https://cloud.githubusercontent.com/assets/10805658/22137654/5d7d1280-df02-11e6-8626-3facbdf3bb93.jpeg"><br>
     <a href="https://github.com/nikhilknoldus/">Nikhil Kumar</a>
